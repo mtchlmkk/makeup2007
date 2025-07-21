@@ -7,4 +7,3 @@ Sheet Descriptions:
 Notes:
 - Ensure data integrity when performing analysis.
 - This dataset may be used for educational or exploratory data analysis purposes.
-<img width="65" height="181" alt="image" src="https://github.com/user-attachments/assets/b0f728f1-cc69-4d71-842d-ce5321925391" />
